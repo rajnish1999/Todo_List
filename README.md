@@ -8,4 +8,9 @@ npm install
 npm run dev-server
 
 ## Snaps
-file:///home/rajnish/Pictures/Screenshot_20210120_015807.png
+![Withot any TODO](https://github.com/rajnish1999/Todo_List/blob/master/public/images/withoutItem.png)
+
+![With TODO](https://github.com/rajnish1999/Todo_List/blob/master/public/images/withItems.png)
+
+![What ToDo](https://github.com/rajnish1999/Todo_List/blob/master/public/images/whatToDo.png)
+
